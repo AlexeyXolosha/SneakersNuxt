@@ -1,0 +1,15 @@
+body{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.28;
+  color: #000;
+}
+
+.button{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 32px;
+  padding-inline: 35px;
+  background-color: transparent;
+}
