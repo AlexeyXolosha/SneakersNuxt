@@ -6,7 +6,7 @@
   <header class="header">
     <div class="container">
       <div class="header__inner">
-        <a href="#" class="header__logo">
+        <a href="/" class="header__logo">
           <img src="../assets/static/logo.png" alt="" class="header__image">
           <div class="header__name">
             <h3 class="header__title">REACT SNEAKERS</h3>

@@ -219,6 +219,10 @@ body {
   font-size: 14px;
 }
 
+.section {
+  padding-block: 45px;
+}
+
 .card-list__inner {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
